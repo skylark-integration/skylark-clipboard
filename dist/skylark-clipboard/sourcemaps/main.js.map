@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["defin","Clipboard"],"mappings":";;;;;;;AAAAA,OACC,eACC,SAASC,GACV,OAAOA","file":"../main.js","sourcesContent":["defin([\r\n\t\"./Clipboard\"\r\n],function(Clipboard){\r\n\treturn Clipboard;\r\n});"]}
