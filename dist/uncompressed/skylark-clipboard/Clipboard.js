@@ -1,5 +1,5 @@
 define([
-    "skylark-langx/skyark",
+    "skylark-langx/skylark",
     "skylark-langx/Emitter",
     "skylark-domx-eventer",
     "./ClipboardAction"

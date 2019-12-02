@@ -5,5 +5,5 @@
  * @link https://github.com/skylark-integration/skylark-clipboard/
  * @license MIT
  */
-defin(["./Clipboard"],function(n){return n});
+define(["./Clipboard"],function(n){return n});
 //# sourceMappingURL=sourcemaps/main.js.map
