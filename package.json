@@ -19,6 +19,12 @@
   "bugs": {
     "url": "https://github.com/skylark-integration/skylark-clipboard/issues"
   },
+  "files": [
+    "demos/",
+    "dist/",
+    "src/",
+    "skins/"
+  ],  
   "license": "MIT",
   "dependencies": {
     "skylark-langx": "git+https://github.com/skylarklangx/skylark-langx.git#master",
