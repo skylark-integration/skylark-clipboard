@@ -24,12 +24,12 @@
     "dist/",
     "src/",
     "skins/"
-  ],  
+  ],
   "license": "MIT",
   "dependencies": {
-    "skylark-langx": "git+https://github.com/skylarklangx/skylark-langx.git#master",
+    "skylark-domx-eventer": "git+https://github.com/skylark-domx/skylark-domx-eventer.git#master",
     "skylark-domx-noder": "git+https://github.com/skylark-domx/skylark-domx-noder.git#master",
-    "skylark-domx-eventer": "git+https://github.com/skylark-domx/skylark-domx-eventer.git#master"
+    "skylark-langx": "git+https://github.com/skylarklangx/skylark-langx.git#master"
   },
   "engines": {
     "node": ">=0.10.1"
