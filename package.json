@@ -27,9 +27,9 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "skylark-domx-eventer": "git+https://github.com/skylark-domx/skylark-domx-eventer.git#master",
-    "skylark-domx-noder": "git+https://github.com/skylark-domx/skylark-domx-noder.git#master",
-    "skylark-langx": "git+https://github.com/skylark-langx/skylark-langx.git#master"
+    "skylark-domx-eventer": "git+https://github.com/skylark-domx/skylark-domx-eventer.git",
+    "skylark-domx-noder": "git+https://github.com/skylark-domx/skylark-domx-noder.git",
+    "skylark-langx": "git+https://github.com/skylark-langx/skylark-langx.git"
   },
   "engines": {
     "node": ">=0.10.1"
